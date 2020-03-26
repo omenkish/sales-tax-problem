@@ -39,7 +39,7 @@ Write an application that prints out the receipt details for these shopping bask
 1 imported bottle of perfume at 27.99
 1 bottle of perfume at 18.99
 1 packet of headache pills at 9.75
-3 box of imported chocolates at 11.25
+3 imported boxes of chocolates at 11.25
 ```
 
 ### Output
