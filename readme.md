@@ -72,7 +72,7 @@ Total: 98.38
 ```
 
 ### How to Run
-`ruby generate.rb <filename>.txt`  
+`ruby runner.rb <filename>.txt`  
 *Note*: The text file must be placed in the `input` folder. 3 files from the problem have been included for your convenience.  
 #### Input Files:
 - input1.txt
