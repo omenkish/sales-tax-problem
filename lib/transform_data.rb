@@ -1,3 +1,4 @@
+require 'pry'
 class TransformData
 
   attr_reader :items
@@ -53,7 +54,7 @@ class TransformData
     }
   end
   
-  private
+  # private
 
     def get_item_quantity(item)
       item.first.to_i

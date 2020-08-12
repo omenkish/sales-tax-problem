@@ -72,12 +72,4 @@ describe 'TaxCalculator' do
     subject.set_totals
     expect(subject.total_amount).to be 42.32
   end
-
-  describe '#run' do
-    it 'should set the totals for total_amount and sales_tax' do
-      subject.run
-      expect(subject.sales_tax).to be 1.5
-      expect(subject.total_amount).to be 42.32
-    end
-  end
 end

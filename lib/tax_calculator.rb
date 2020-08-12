@@ -12,6 +12,7 @@ class TaxCalculator
   end
 
   def run
+    update_amounts
     set_totals
   end
 
